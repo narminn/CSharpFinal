@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="82ad398529604fe99102cc1c1bf24f2a" Name="Diagram1" ZoomLevel="89">
+        <EntityTypeShape EntityType="CodeAcademy_DBModel.Gender" Width="1.5" PointX="0.75" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CodeAcademy_DBModel.Group_schedule" Width="1.5" PointX="0.75" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CodeAcademy_DBModel.Group_types" Width="1.5" PointX="3" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CodeAcademy_DBModel.Group" Width="1.5" PointX="5.25" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CodeAcademy_DBModel.Mentor" Width="1.5" PointX="3" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CodeAcademy_DBModel.Student" Width="1.5" PointX="7.5" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CodeAcademy_DBModel.Task_types" Width="1.5" PointX="7.5" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CodeAcademy_DBModel.Task" Width="1.5" PointX="9.75" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CodeAcademy_DBModel.Teacher" Width="1.5" PointX="3" PointY="6.125" IsExpanded="true" />
+        <AssociationConnector Association="CodeAcademy_DBModel.FK_Mentors_Gender" ManuallyRouted="false" />
+        <AssociationConnector Association="CodeAcademy_DBModel.FK_Students_Gender" ManuallyRouted="false" />
+        <AssociationConnector Association="CodeAcademy_DBModel.FK_Teachers_Gender" ManuallyRouted="false" />
+        <AssociationConnector Association="CodeAcademy_DBModel.FK_Group_types_Group_schedule" ManuallyRouted="false" />
+        <AssociationConnector Association="CodeAcademy_DBModel.FK_Groups_Group_types" ManuallyRouted="false" />
+        <AssociationConnector Association="CodeAcademy_DBModel.FK_Groups_Mentors" ManuallyRouted="false" />
+        <AssociationConnector Association="CodeAcademy_DBModel.FK_Groups_Teachers" ManuallyRouted="false" />
+        <AssociationConnector Association="CodeAcademy_DBModel.FK_Students_Groups" ManuallyRouted="false" />
+        <AssociationConnector Association="CodeAcademy_DBModel.FK_Tasks_Students" ManuallyRouted="false" />
+        <AssociationConnector Association="CodeAcademy_DBModel.FK_Tasks_Task_types" ManuallyRouted="false" />
+        <AssociationConnector Association="CodeAcademy_DBModel.FK_Tasks_Groups" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

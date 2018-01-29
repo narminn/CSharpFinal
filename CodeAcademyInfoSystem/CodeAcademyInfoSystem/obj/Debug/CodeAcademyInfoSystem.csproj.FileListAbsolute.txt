@@ -1,0 +1,107 @@
+C:\Users\Dr.Rashad\source\repos\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\CodeAcademyInfoSystem.exe.config
+C:\Users\Dr.Rashad\source\repos\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\CodeAcademyInfoSystem.exe
+C:\Users\Dr.Rashad\source\repos\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\CodeAcademyInfoSystem.pdb
+C:\Users\Dr.Rashad\source\repos\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.dll
+C:\Users\Dr.Rashad\source\repos\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dr.Rashad\source\repos\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.xml
+C:\Users\Dr.Rashad\source\repos\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dr.Rashad\source\repos\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.csprojResolveAssemblyReference.cache
+C:\Users\Dr.Rashad\source\repos\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AdminForm.resources
+C:\Users\Dr.Rashad\source\repos\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.Form1.resources
+C:\Users\Dr.Rashad\source\repos\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.Properties.Resources.resources
+C:\Users\Dr.Rashad\source\repos\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.csproj.GenerateResource.Cache
+C:\Users\Dr.Rashad\source\repos\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dr.Rashad\source\repos\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.exe
+C:\Users\Dr.Rashad\source\repos\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.pdb
+C:\Users\Dr.Rashad\Desktop\Forza_N_R\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\CodeAcademyInfoSystem.exe.config
+C:\Users\Dr.Rashad\Desktop\Forza_N_R\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\CodeAcademyInfoSystem.exe
+C:\Users\Dr.Rashad\Desktop\Forza_N_R\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\CodeAcademyInfoSystem.pdb
+C:\Users\Dr.Rashad\Desktop\Forza_N_R\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.dll
+C:\Users\Dr.Rashad\Desktop\Forza_N_R\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dr.Rashad\Desktop\Forza_N_R\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.xml
+C:\Users\Dr.Rashad\Desktop\Forza_N_R\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dr.Rashad\Desktop\Forza_N_R\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.csprojResolveAssemblyReference.cache
+C:\Users\Dr.Rashad\Desktop\Forza_N_R\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AdminForm.resources
+C:\Users\Dr.Rashad\Desktop\Forza_N_R\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.Form1.resources
+C:\Users\Dr.Rashad\Desktop\Forza_N_R\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.Properties.Resources.resources
+C:\Users\Dr.Rashad\Desktop\Forza_N_R\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.csproj.GenerateResource.Cache
+C:\Users\Dr.Rashad\Desktop\Forza_N_R\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dr.Rashad\Desktop\Forza_N_R\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.exe
+C:\Users\Dr.Rashad\Desktop\Forza_N_R\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.pdb
+C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\CodeAcademyInfoSystem.exe.config
+C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\CodeAcademyInfoSystem.exe
+C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\CodeAcademyInfoSystem.pdb
+C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.dll
+C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.xml
+C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.csprojResolveAssemblyReference.cache
+C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AdminForm.resources
+C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.Form1.resources
+C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.Properties.Resources.resources
+C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.csproj.GenerateResource.Cache
+C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.exe
+C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.pdb
+C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AddGroupForm.resources
+C:\Users\Rashad\Desktop\pro\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AddStudent.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.csprojResolveAssemblyReference.cache
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AboutGroupsForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AboutMentorForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AboutStudentsForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AboutTeacherForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AddGroupForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AddMentorForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AddStudent.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AddTeacherForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AdminForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.Form1.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.MentorInfoform.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.Properties.Resources.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.TaskForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.TeacherInfoForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.csproj.GenerateResource.Cache
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.exe
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.pdb
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\CodeAcademyInfoSystem.exe.config
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\CodeAcademyInfoSystem.exe
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\CodeAcademyInfoSystem.pdb
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.dll
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.xml
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.StudentInfoForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.TaskPointsForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\CodeAcademyInfoSystem.exe.config
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\CodeAcademyInfoSystem.exe
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\CodeAcademyInfoSystem.pdb
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.dll
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.xml
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.csprojResolveAssemblyReference.cache
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AboutGroupsForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AboutMentorForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AboutStudentsForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AboutTeacherForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AddGroupForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AddMentorForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AddStudent.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AddTeacherForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AdminForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.Form1.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.MentorInfoform.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.Properties.Resources.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.StudentInfoForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.TaskForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.TaskPointsForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.TeacherInfoForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.csproj.GenerateResource.Cache
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.exe
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.pdb
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.csproj.ResolveComReference.cache
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AddGroupTypeForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AddGroupScheduleForm.resources
+C:\Users\Dr.Rashad\Desktop\son versiya 18.10_bunun ustunde isle\CodeAcademyInfoSystem\CodeAcademyInfoSystem\obj\Debug\CodeAcademyInfoSystem.AddTaskTypeForm.resources
